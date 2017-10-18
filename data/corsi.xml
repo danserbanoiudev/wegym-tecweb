@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<corsi>
+	<corso>
+		<titolo>Zumba</titolo>
+		<alt>Logo Corso di Zumba</alt>
+		<img_corso>GsTeMNUD.jpg</img_corso>
+		<descrizione>La zumba fitness combina l’aerobica e la musica latino-americana per l’allenamento dei muscoli e una buona dose di divertimento. Ecco la formula vincente di questa disciplina, che registra un boom di fan anche in Italia.</descrizione>
+	</corso>
+	<corso>
+		<titolo>Salsa</titolo>
+		<alt>Logo Corso di Salsa Wegym</alt>
+		<img_corso>PvErKaQU.jpg</img_corso>
+		<descrizione>Venite a imparare questo ballo passionale. Ballare è vivere e noi vi insegneremo entrambe le cose.</descrizione>
+	</corso>
+	<corso>
+		<titolo>MMA</titolo>
+		<alt>Logo Corso di MMA Wegym</alt>
+		<img_corso>ubXzWLUR.png</img_corso>
+		<descrizione>Uno sport da combattimento a contatto pieno il cui regolamento consente l'utilizzo sia di tecniche di percussione (cioè calci, pugni, gomitate e ginocchiate), sia di tecniche di lotta (come proiezioni, leve e strangolamenti).</descrizione>
+	</corso>
+	<corso>
+		<titolo>Boxe</titolo>
+		<alt>Logo Corso di Boxe</alt>
+		<img_corso>LwVrHbml.jpg</img_corso>
+		<descrizione>Il pugilato nasce come sport di difesa personale, e risulta essere il mezzo di difesa personale più antico al mondo, in quanto i pugni sono il primo istinto dell'uomo nella difesa personale stessa. Era praticato già nell'Antica Grecia e nell'Antica Roma.</descrizione>
+	</corso>
+</corsi>
